@@ -4,3 +4,4 @@ i love natural beauty
 i like learning new skills
 i am learning cloud computing.
 now we are merging it and conflict it.
+now we pull it remotely
